@@ -53,27 +53,13 @@ Helps users identify weak areas quickly
 | Build Tool           | Gradle           | Dependency management and build automation    |
 | Testing              | Android Emulator | App testing and debugging                     |
 
-Project Structure
-FlashWise
-│
-├── src/
-│   ├── activities/
-│   ├── models/
-│   ├── adapters/
-│   ├── resources/
-│
-├── database/
-├── assets/
-├── README.md
-└── build files
-
-🖥️ User Outputs
-Output	Description
-Flashcards	Displays study material
-Quiz Score	Total marks obtained
+User Outputs
+Output          	Description
+Flashcards	      Displays study material
+Quiz Score	      Total marks obtained
 Instant Feedback	Correct / Incorrect answers
-Progress View	Learning tracking
-Subject Dashboard	Organized topics
+Progress          View	Learning tracking
+Subject           Dashboard	Organized topics
 
 Prerequisites
 Android Studio / Visual Studio
@@ -94,12 +80,12 @@ Sync dependencies
 Run on emulator or device
 
 How to Use
-🔹 Flashcard Mode
+Flashcard Mode
 Select subject
 View flashcards
 Revise concepts
 
-🔹 Quiz Mode
+Quiz Mode
 Start quiz
 Select answers
 Get instant result
@@ -133,6 +119,6 @@ Quiz not loading	Verify database
 UI misalignment	Adjust layout XML
 Slow performance	Clear cache
 
-📜 License
+License
 This project is developed for educational purposes.
 Free to use, modify, and enhance for learning.
